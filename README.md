@@ -125,7 +125,8 @@ It will invoke the nclaunch window for functional simulation we can compile,elab
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure
 
 Click the cds.lib file and save the file by clicking on Save option
-![image](https://github.com/user-attachments/assets/e122c70f-f3d6-467b-aeb8-ce5ca27047ec)
+![Screenshot 2024-10-16 190111](https://github.com/user-attachments/assets/9d229e94-be18-4abe-89d9-ce2bb3f1712b)
+
 
 
 ## Fig 4: cds.lib file Creation
