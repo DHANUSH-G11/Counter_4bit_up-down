@@ -42,7 +42,9 @@ Functional Simulation:
       
 	After this you can see the window like below 
 
-![Screenshot 2024-10-16 185558](https://github.com/user-attachments/assets/0b666f07-055f-4ea2-b908-c81de8f165a7)
+![Screenshot (32)](https://github.com/user-attachments/assets/ddc6ed49-4bb2-42ab-9e57-4e40bd57312f)
+
+
 
 
 ## Fig 2: Invoke the Cadence Environment
@@ -117,7 +119,8 @@ endmodule
 	linux:/> nclaunch&                 // On subsequent calls to NCVERILOG
 
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple step
-![image](https://github.com/user-attachments/assets/130f70a9-8311-4a62-9b62-f3a1c5b1b373)
+![Screenshot (33)](https://github.com/user-attachments/assets/0211d3d5-9aaa-4e35-a468-493d3de857df)
+
 
 
 ## Fig 3: Setting Multi-step simulation
@@ -125,7 +128,8 @@ It will invoke the nclaunch window for functional simulation we can compile,elab
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure
 
 Click the cds.lib file and save the file by clicking on Save option
-![Screenshot 2024-10-16 190111](https://github.com/user-attachments/assets/9d229e94-be18-4abe-89d9-ce2bb3f1712b)
+![Screenshot (34)](https://github.com/user-attachments/assets/05fe2bf9-0f7e-4c6d-ad90-8fba6391e715)
+
 
 
 
@@ -146,7 +150,8 @@ Click the cds.lib file and save the file by clicking on Save option
 	Left side you can see the HDL files. Right side of the window has worklib and snapshots directories listed.
 
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
-![image](https://github.com/user-attachments/assets/6029cb0d-f8b5-4e18-b08e-ba88bb5cbfa1)
+![Screenshot (36)](https://github.com/user-attachments/assets/f1901657-9ae8-4e6d-9ebc-b9ad6244108e)
+
 
 
 ## Fig 6: Nclaunch Window
@@ -218,17 +223,21 @@ It contains statements that map logical library names to their physical director
 	Simulation allow to dump design and test bench signals into a waveform 
 
 	Steps for simulation – Run the simulation command with simulator option
-![Screenshot 2024-10-16 184957](https://github.com/user-attachments/assets/518ad60c-b861-40c5-afbf-8ae882153f2c)
+![Screenshot (40)](https://github.com/user-attachments/assets/cd4ef29c-16cd-4618-ae82-de64a3594f1a)
+
 
 
 
 ## Fig 9: Design Browser window for simulation
-![Screenshot 2024-10-16 182409](https://github.com/user-attachments/assets/4d278721-cfe5-40d3-9548-580791bfa820)
+![Screenshot (41)](https://github.com/user-attachments/assets/58fd43bd-733f-454b-824e-5cd36580ae73)
+
 
 ## Fig 10: Simulation Waveform Window
-![Screenshot 2024-09-25 104804](https://github.com/user-attachments/assets/ae9a9e67-5ca5-4351-b41c-ba4af9ecec86)
+![Screenshot (42)](https://github.com/user-attachments/assets/1d4aba79-fd8b-4409-ab46-9a5fde6cbc19)
+
 
 ## Fig 11: Simulation Waveform Window
-![Screenshot 2024-09-25 104804](https://github.com/user-attachments/assets/472fe122-d10d-4ea3-80e2-25d355e0b8a6)
+![Screenshot (42)](https://github.com/user-attachments/assets/e4b06476-ab30-4b46-87c8-5dc54de0bbd2)
+
 
 
